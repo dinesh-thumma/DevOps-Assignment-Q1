@@ -48,5 +48,3 @@ while [ "$num" -ne 6174 ]; do
         exit 1
     fi
 done
-
-echo "Kaprekar's constant has been reached in $iterations iterations"
